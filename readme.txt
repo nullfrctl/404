@@ -4,8 +4,9 @@
 
 404 is a very simple tf2 config operated by symlinks.
 
-running sync.zsh with zsh will, assuming you have the regular path for tf2, aut-
-omatically set up the symlinks.
+running sync.sh with your shell should automatically set up the symlinks.
+if it doesn't, please open an issue and give an idea of how to fix it. i'm very 
+new to scripting and help would be appreciated.
 
 to update or add to the vpk files within the custom folder, just replace them or
-add to them. sync.zsh should automatically detect your changes.
+add to them. sync.sh should automatically detect your changes.
