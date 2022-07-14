@@ -1,6 +1,6 @@
 404 --- a simple tf2 config --- by /dev/null
 
-§ Introduction
+  §  Introduction
 
 404 is a very simple tf2 config operated by symlinks.
 
